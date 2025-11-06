@@ -1,0 +1,11 @@
+div class="container my-5">
+  <div class="p-5 mb-4 rounded-3" style="background-color: #003366; color: #ffa500;">
+    <div class="container-fluid py-5">
+      <h1 class="display-5 fw-bold">Welcome to Bao's PC Builder</h1>
+      <p class="col-md-8 fs-4">
+        Build your dream PC with expert guidance, top-rated components, and personalized recommendations.
+      </p>
+      <a href="form.html" class="btn btn-primary btn-lg">Start Your Build</a>
+    </div>
+  </div>
+</div>
