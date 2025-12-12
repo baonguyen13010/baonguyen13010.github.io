@@ -12,3 +12,5 @@ The dashboard includes 5 different charts showing different sales information:
 5. Customer Ratings(Stacked Bar) - Shows what products people like
 
 It was made with the help of fake ai AI-generated data, chart.js library as well as bootstrap.
+
+https://www.youtube.com/watch?v=XLjRkqtH8RA
